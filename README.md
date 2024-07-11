@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-- **Languages**: JavaScript, HTML, CSS, Arduino, React, Node, C#, python
-- **Frameworks**: React.j, express.js
-- **Tools**: Git, GitHub, Arduino IDE
+- **Languages**: JavaScript, HTML, CSS, Arduino, React, Node, C#, python,     
+          TypeScript
+- **Frameworks**: React.j, express.js, Node.JS, Bootsrap, .NET, 
+- **Tools**: Git, GitHub, Arduino IDE, Flutter. Tailwind CSS
 - **Interests**: Web Development, IoT, Open Source
 
 ## Connect with Me
