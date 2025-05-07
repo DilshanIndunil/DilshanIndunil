@@ -14,11 +14,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Skills
 
-- **Languages**: JavaScript, HTML, CSS, Arduino, React, Node, C#, python,     
-          TypeScript
-- **Frameworks**: React.j, express.js, Node.JS, Bootsrap, .NET, 
-- **Tools**: Git, GitHub, Arduino IDE, Flutter. Tailwind CSS
-- **Interests**: Web Development, IoT, Open Source
+- **Languages**: JavaScript, TypeScript, HTML, CSS, SCSS, Python, C#, C, C++, Java, Arduino, SQL, NoSQL, Dart
+- **Frameworks**: React.js, Next.js, Express.js, Node.js, .NET, Bootstrap, Tailwind CSS, Flask, React Native
+- **Tools**: Git, GitHub, GitLab, Arduino IDE, VS Code, Visual Studio, Postman, Docker, Firebase, Figma, Canva, Swagger, MongoDB Compass, Cloudinary, Heroku, Vercel, Netlify
+- **Platforms/Databases**: MongoDB, MySQL, PostgreSQL, Firebase, Redis
+- **Hardware & IoT**: Arduino Uno, ESP8266, NodeMCU, DHT11, Ultrasonic Sensor, QR code scanners, IoT-based HTTP APIs
+- **Interests**: Web Development, Mobile App Development, Internet of Things (IoT), Full-Stack Projects, Open Source Contribution, UI/UX Design, Real-time Systems, Cloud Integration, DevOps Basics
 
 ## Connect with Me
 
